@@ -5,3 +5,8 @@ h1 {
 h2 {
   font-size: 4rem !important;
 }
+
+.icona {
+  font-size: 50px;
+  color: gray;
+}
